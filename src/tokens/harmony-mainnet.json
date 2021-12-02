@@ -246,5 +246,12 @@
     "name": "HarmonApe",
     "decimals": 9,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/APE.png"
-  }
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x5bd0cb780ea4ab8e51f81b7b764539b730f0e185",
+    "symbol": "GEO",
+    "name": "GeoMoon",
+    "decimals": 17,
+    "logoURI": "https://imgur.com/a/kBQB5h2"
 ]
